@@ -1,10 +1,11 @@
-Hi, I'm ExtremePro11299.
+Hi, I'm ExtremePro11299. I use Windows 11.
 
 
-I am learning Batch and looking to collaborate on Batch programs. I already know a lot about Batch.
-I also know Lua, but only for Roblox games.
-I am interested in Powershell, because of it's advantages over Batch.
-
+Programming languages I know(Most known to least known):
+- Batch
+- Roblox Luau
+- Powershell
+------------------------------------------
 - My YouTube channel: https://www.youtube.com/@extremepro11299
 - My Twitter account: https://twitter.com/ExtremePro11299
 
