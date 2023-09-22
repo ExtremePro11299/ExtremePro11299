@@ -1,7 +1,7 @@
 Hi, I'm ExtremePro11299. I use Windows 11.
 
 
-Programming languages I know(Most known to least known):
+Programming languages I know (Most known to least known):
 - Batch
 - Roblox Luau
 - Powershell
