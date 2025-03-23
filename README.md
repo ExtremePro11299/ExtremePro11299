@@ -7,7 +7,7 @@ Programming languages I know (Most known to least known):
 - Powershell
 ------------------------------------------
 - My YouTube channel: https://www.youtube.com/@extremepro11299
-- My Twitter account: https://twitter.com/ExtremePro11299
+- My X account: https://twitter.com/ExtremePro11299
 
 <!---
 ExtremePro11299/ExtremePro11299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
